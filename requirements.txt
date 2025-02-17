@@ -10,4 +10,4 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 pysqlite3-binary
-chromadb==0.3.29
+chromadb
