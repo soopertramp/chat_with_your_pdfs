@@ -9,3 +9,4 @@ pypdf
 langchain_huggingface
 faiss-cpu
 langchain_chroma
+SQLite >= 3.35.0
